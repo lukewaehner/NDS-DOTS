@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Setting Name="Preview_CloseToggle">
+    <boolean>true</boolean>
+  </Setting>
+  <Setting Name="Preview_Main_CartY">
+    <int>2</int>
+  </Setting>
+  <Setting Name="Preview_Main_FileEnable">
+    <boolean>true</boolean>
+  </Setting>
+  <Setting Name="Preview_Folder_FolderEnable">
+    <boolean>true</boolean>
+  </Setting>
+  <Setting Name="Preview_Folder_CursorEnable">
+    <boolean>true</boolean>
+  </Setting>
+  <Setting Name="Preview_Main_CursorX">
+    <int>2</int>
+  </Setting>
+  <Setting Name="Preview_PressedToggle">
+    <boolean>false</boolean>
+  </Setting>
+  <Setting Name="SocketIP">
+    <string>127.0.0.1</string>
+  </Setting>
+  <Setting Name="Preview_Folder_FolderX">
+    <int>0</int>
+  </Setting>
+  <Setting Name="Preview_Main_FolderX">
+    <int>0</int>
+  </Setting>
+  <Setting Name="Preview_Folder_FileY">
+    <int>0</int>
+  </Setting>
+  <Setting Name="Preview_Folder_FileX">
+    <int>0</int>
+  </Setting>
+  <Setting Name="Preview_Folder_CursorX">
+    <int>2</int>
+  </Setting>
+  <Setting Name="Preview_Main_CartX">
+    <int>0</int>
+  </Setting>
+  <Setting Name="Preview_Main_FileY">
+    <int>2</int>
+  </Setting>
+  <Setting Name="Preview_Main_CartEnable">
+    <boolean>true</boolean>
+  </Setting>
+  <Setting Name="Preview_AnimationToggle">
+    <boolean>false</boolean>
+  </Setting>
+  <Setting Name="Preview_Main_FolderEnable">
+    <boolean>true</boolean>
+  </Setting>
+  <Setting Name="Preview_Folder_FolderY">
+    <int>1</int>
+  </Setting>
+  <Setting Name="SocketMaxTries">
+    <int>5</int>
+  </Setting>
+  <Setting Name="Preview_Main_CursorEnable">
+    <boolean>true</boolean>
+  </Setting>
+  <Setting Name="CheckUpdatesOnStartup">
+    <boolean>true</boolean>
+  </Setting>
+  <Setting Name="Preview_Main_FolderY">
+    <int>1</int>
+  </Setting>
+  <Setting Name="Preview_Folder_CursorY">
+    <int>1</int>
+  </Setting>
+  <Setting Name="EXP_ResampleWav">
+    <boolean>false</boolean>
+  </Setting>
+  <Setting Name="Preview_Main_CursorY">
+    <int>2</int>
+  </Setting>
+  <Setting Name="Preview_Main_FileX">
+    <int>1</int>
+  </Setting>
+  <Setting Name="Preview_Folder_FileEnable">
+    <boolean>false</boolean>
+  </Setting>
+  <Setting Name="Preview_ModeToggle">
+    <boolean>false</boolean>
+  </Setting>
+  <Setting Name="MRU_List">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+  </Setting>
+</Settings>
